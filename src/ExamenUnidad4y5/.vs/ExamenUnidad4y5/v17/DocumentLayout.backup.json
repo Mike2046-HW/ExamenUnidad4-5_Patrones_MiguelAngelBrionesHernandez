@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Migue\\source\\repos\\Projects\\ExamenUnidad4y5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B85381CC-E280-415A-A51A-1AF4704BFDAB}|ExamenUnidad4y5\\ExamenUnidad4y5.csproj|c:\\users\\migue\\source\\repos\\projects\\examenunidad4y5\\examenunidad4y5\\capa presentaci\u00F3n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85381CC-E280-415A-A51A-1AF4704BFDAB}|ExamenUnidad4y5\\ExamenUnidad4y5.csproj|solutionrelative:examenunidad4y5\\capa presentaci\u00F3n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85381CC-E280-415A-A51A-1AF4704BFDAB}|ExamenUnidad4y5\\ExamenUnidad4y5.csproj|c:\\users\\migue\\source\\repos\\projects\\examenunidad4y5\\examenunidad4y5\\capa de negocio\\state\\ocupada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85381CC-E280-415A-A51A-1AF4704BFDAB}|ExamenUnidad4y5\\ExamenUnidad4y5.csproj|solutionrelative:examenunidad4y5\\capa de negocio\\state\\ocupada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85381CC-E280-415A-A51A-1AF4704BFDAB}|ExamenUnidad4y5\\ExamenUnidad4y5.csproj|c:\\users\\migue\\source\\repos\\projects\\examenunidad4y5\\examenunidad4y5\\capa de negocio\\state\\mantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85381CC-E280-415A-A51A-1AF4704BFDAB}|ExamenUnidad4y5\\ExamenUnidad4y5.csproj|solutionrelative:examenunidad4y5\\capa de negocio\\state\\mantenimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85381CC-E280-415A-A51A-1AF4704BFDAB}|ExamenUnidad4y5\\ExamenUnidad4y5.csproj|c:\\users\\migue\\source\\repos\\projects\\examenunidad4y5\\examenunidad4y5\\capa de negocio\\state\\libre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85381CC-E280-415A-A51A-1AF4704BFDAB}|ExamenUnidad4y5\\ExamenUnidad4y5.csproj|solutionrelative:examenunidad4y5\\capa de negocio\\state\\libre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85381CC-E280-415A-A51A-1AF4704BFDAB}|ExamenUnidad4y5\\ExamenUnidad4y5.csproj|c:\\users\\migue\\source\\repos\\projects\\examenunidad4y5\\examenunidad4y5\\capa de negocio\\state\\iestado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85381CC-E280-415A-A51A-1AF4704BFDAB}|ExamenUnidad4y5\\ExamenUnidad4y5.csproj|solutionrelative:examenunidad4y5\\capa de negocio\\state\\iestado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 193,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\source\\repos\\Projects\\ExamenUnidad4y5\\ExamenUnidad4y5\\Capa Presentaci\u00F3n\\Program.cs",
+              "RelativeDocumentMoniker": "ExamenUnidad4y5\\Capa Presentaci\u00F3n\\Program.cs",
+              "ToolTip": "C:\\Users\\Migue\\source\\repos\\Projects\\ExamenUnidad4y5\\ExamenUnidad4y5\\Capa Presentaci\u00F3n\\Program.cs",
+              "RelativeToolTip": "ExamenUnidad4y5\\Capa Presentaci\u00F3n\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T05:17:03.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ocupada.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\source\\repos\\Projects\\ExamenUnidad4y5\\ExamenUnidad4y5\\Capa de Negocio\\State\\Ocupada.cs",
+              "RelativeDocumentMoniker": "ExamenUnidad4y5\\Capa de Negocio\\State\\Ocupada.cs",
+              "ToolTip": "C:\\Users\\Migue\\source\\repos\\Projects\\ExamenUnidad4y5\\ExamenUnidad4y5\\Capa de Negocio\\State\\Ocupada.cs",
+              "RelativeToolTip": "ExamenUnidad4y5\\Capa de Negocio\\State\\Ocupada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T05:16:35.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mantenimiento.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\source\\repos\\Projects\\ExamenUnidad4y5\\ExamenUnidad4y5\\Capa de Negocio\\State\\Mantenimiento.cs",
+              "RelativeDocumentMoniker": "ExamenUnidad4y5\\Capa de Negocio\\State\\Mantenimiento.cs",
+              "ToolTip": "C:\\Users\\Migue\\source\\repos\\Projects\\ExamenUnidad4y5\\ExamenUnidad4y5\\Capa de Negocio\\State\\Mantenimiento.cs",
+              "RelativeToolTip": "ExamenUnidad4y5\\Capa de Negocio\\State\\Mantenimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T05:16:25.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Libre.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\source\\repos\\Projects\\ExamenUnidad4y5\\ExamenUnidad4y5\\Capa de Negocio\\State\\Libre.cs",
+              "RelativeDocumentMoniker": "ExamenUnidad4y5\\Capa de Negocio\\State\\Libre.cs",
+              "ToolTip": "C:\\Users\\Migue\\source\\repos\\Projects\\ExamenUnidad4y5\\ExamenUnidad4y5\\Capa de Negocio\\State\\Libre.cs",
+              "RelativeToolTip": "ExamenUnidad4y5\\Capa de Negocio\\State\\Libre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T05:16:14.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEstado.cs",
+              "DocumentMoniker": "C:\\Users\\Migue\\source\\repos\\Projects\\ExamenUnidad4y5\\ExamenUnidad4y5\\Capa de Negocio\\State\\IEstado.cs",
+              "RelativeDocumentMoniker": "ExamenUnidad4y5\\Capa de Negocio\\State\\IEstado.cs",
+              "ToolTip": "C:\\Users\\Migue\\source\\repos\\Projects\\ExamenUnidad4y5\\ExamenUnidad4y5\\Capa de Negocio\\State\\IEstado.cs",
+              "RelativeToolTip": "ExamenUnidad4y5\\Capa de Negocio\\State\\IEstado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T05:16:04.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

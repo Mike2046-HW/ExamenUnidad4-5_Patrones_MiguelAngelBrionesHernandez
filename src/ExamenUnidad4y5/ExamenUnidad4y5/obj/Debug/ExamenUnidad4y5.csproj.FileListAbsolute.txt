@@ -1,0 +1,7 @@
+C:\Users\Migue\source\repos\Projects\ExamenUnidad4y5\ExamenUnidad4y5\bin\Debug\ExamenUnidad4y5.exe.config
+C:\Users\Migue\source\repos\Projects\ExamenUnidad4y5\ExamenUnidad4y5\bin\Debug\ExamenUnidad4y5.exe
+C:\Users\Migue\source\repos\Projects\ExamenUnidad4y5\ExamenUnidad4y5\bin\Debug\ExamenUnidad4y5.pdb
+C:\Users\Migue\source\repos\Projects\ExamenUnidad4y5\ExamenUnidad4y5\obj\Debug\ExamenUnidad4y5.csproj.AssemblyReference.cache
+C:\Users\Migue\source\repos\Projects\ExamenUnidad4y5\ExamenUnidad4y5\obj\Debug\ExamenUnidad4y5.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Projects\ExamenUnidad4y5\ExamenUnidad4y5\obj\Debug\ExamenUnidad4y5.exe
+C:\Users\Migue\source\repos\Projects\ExamenUnidad4y5\ExamenUnidad4y5\obj\Debug\ExamenUnidad4y5.pdb

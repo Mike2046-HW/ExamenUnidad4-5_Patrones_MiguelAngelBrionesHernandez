@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B85381CC-E280-415A-A51A-1AF4704BFDAB}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>ExamenUnidad4y5</RootNamespace>
+    <AssemblyName>ExamenUnidad4y5</AssemblyName>
+    <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Capa de Negocio\Adapter\Adapters\AdapterBarcoPirata.cs" />
+    <Compile Include="Capa de Negocio\Adapter\Adapters\AdapterMegaDrop.cs" />
+    <Compile Include="Capa de Negocio\Adapter\Adapters\AdapterRuedaFortuna.cs" />
+    <Compile Include="Capa de Negocio\Prototype\BarcoPirata.cs" />
+    <Compile Include="Capa de Negocio\Prototype\MegaDrop.cs" />
+    <Compile Include="Capa de Negocio\Prototype\RuedaFortuna.cs" />
+    <Compile Include="Capa Presentación\Program.cs" />
+    <Compile Include="Capa de Negocio\Adapter\Adapters\AdapterCarrusel.cs" />
+    <Compile Include="Capa de Negocio\Adapter\Adapters\AdapterMontañaRusa.cs" />
+    <Compile Include="Capa de Negocio\Adapter\IComportamiento.cs" />
+    <Compile Include="Capa de Negocio\Prototype\Atraccion.cs" />
+    <Compile Include="Capa de Negocio\Prototype\Carrusel.cs" />
+    <Compile Include="Capa de Negocio\Prototype\MontañaRusa.cs" />
+    <Compile Include="Capa de Negocio\State\IEstado.cs" />
+    <Compile Include="Capa de Negocio\State\Libre.cs" />
+    <Compile Include="Capa de Negocio\State\Mantenimiento.cs" />
+    <Compile Include="Capa de Negocio\State\Ocupada.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
